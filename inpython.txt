@@ -1,0 +1,5 @@
+In python you can create list
+In python you can create dictionaries
+In python you can create tuples
+In python you can do data analysis
+In python you can do data visualization
